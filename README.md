@@ -294,6 +294,7 @@ Start the photo analysis process.
 
 SmartPhotoVision will:
 
+```text
 📂 Scan Images
       ↓
 👤 Detect Faces
@@ -307,6 +308,7 @@ SmartPhotoVision will:
 🗃️ Save Results
 Step 4 — Explore
 
+```
 Use the application interface to explore the analyzed photographs and detected personas.
 
 ---
