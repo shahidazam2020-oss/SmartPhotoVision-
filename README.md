@@ -150,7 +150,11 @@ SmartPhotoVision/
 │
 └── 📘 README.md
 
-🔹 Core Components
+---
+```
+
+# 🔹 Core Components
+
 Component	Responsibility
 main.py	Application startup and configuration
 analyzer.py	Photo scanning, face detection, recognition and clustering
@@ -158,8 +162,10 @@ database.py	SQLite database and data persistence
 paths.py	Application and resource path management
 gui/	Desktop user interface and visual styling
 models/	AI models used for face analysis
-🛠️ Technology Stack
-Programming
+
+
+# 🛠️ Technology Stack
+## Programming
 🐍 Python
 🖥️ PySide6
 👁️ OpenCV
