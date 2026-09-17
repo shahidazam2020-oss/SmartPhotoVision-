@@ -239,6 +239,8 @@ Organized photo collection inside the application.
 
 To display your actual screenshots on GitHub, create:
 
+```text
+
 screenshots/
 │
 ├── main-window.png
@@ -307,6 +309,8 @@ Use the application interface to explore the analyzed photographs and detected p
 # 🗃️ Database Structure
 
 SmartPhotoVision uses SQLite to maintain persistent application data.
+
+```text
 
 Main Tables
 photos
