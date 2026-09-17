@@ -257,6 +257,7 @@ Then replace the example images above with your actual screenshots.
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/SmartPhotoVision.git
 cd SmartPhotoVision
+
 2️⃣ Create a Virtual Environment
 Windows
 python -m venv venv
@@ -264,8 +265,10 @@ venv\Scripts\activate
 Linux / macOS
 python3 -m venv venv
 source venv/bin/activate
+
 3️⃣ Install Dependencies
 pip install -r requirements.txt
+
 ▶️ Run the Application
 
 Start SmartPhotoVision with:
