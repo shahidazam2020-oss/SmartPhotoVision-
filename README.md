@@ -214,7 +214,7 @@ Real application screenshots are provided below as proof of the working output.
 Main SmartPhotoVision desktop interface.
 
 ## 🔍 Photo Analysis
-<p align="center"> <img src="screenshots/photo-analysis.png" width="900"> </p>
+<p align="center"> <img src="https://github.com/shahidazam2020-oss/SmartPhotoVision-/blob/master/screenshots/persona%201.PNG" width="900"> </p>
 
 Photo scanning and AI-powered face analysis.
 
