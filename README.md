@@ -346,7 +346,7 @@ photo_tags
 │
 └── Photo ↔ Tag relationships
 
-
+```
 # 🔐 Data & Privacy
 
 SmartPhotoVision is designed as a local desktop application.
