@@ -106,25 +106,28 @@ SmartPhotoVision follows a multi-stage analysis pipeline:
 ```
 
 ---
-🔬 AI Models
+
+# 🔬 AI Models
 
 The project uses two OpenCV ONNX models:
 
 Face Detection
 
-models/
+## models/
 └── face_detection_yunet_2023mar.onnx
 
 Used to locate faces inside photographs.
 
-Face Recognition
+## Face Recognition
 
 models/
 └── face_recognition_sface_2021dec.onnx
 
 Used to generate face embeddings and compare detected faces.
 
-🏗️ Application Architecture
+---
+
+# 🏗️ Application Architecture
 SmartPhotoVision
 │
 ├── main.py
@@ -144,6 +147,7 @@ SmartPhotoVision
 │   └── theme.py
 │
 └── README.md
+
 🔹 Core Components
 Component	Responsibility
 main.py	Application startup and configuration
