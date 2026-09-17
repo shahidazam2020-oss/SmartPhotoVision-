@@ -454,33 +454,45 @@ Add your preferred open-source license here.
 For example:
 
 MIT License
-⭐ Support the Project
+
+# ⭐ Support the Project
 
 If you find SmartPhotoVision useful or interesting:
 
-⭐ Star the repository
+### ⭐ Star the repository
 
-🍴 Fork the project
+### 🍴 Fork the project
 
-🐛 Report issues
+### 🐛 Report issues
 
-💡 Suggest improvements
+### 💡 Suggest improvements
 
-🤝 Contribute
+### 🤝 Contribute
 
-👨‍💻 Author
+---
 
-Shahid Azam
+# 👨‍💻 About Me
+## Shahid Azam
 
-<p align="center">
+**MS Computer Science Student**
+**Specialization in Artificial Intelligence**
 
-⭐ <strong>SmartPhotoVision — Intelligent Photo Management with AI</strong> ⭐
+*Institute of Management Sciences, Peshawar, Pakistan*
 
-</p> ```
-📁 Recommended GitHub structure
+I enjoy building complete software systems—from networking and operating system concepts to backend architecture, machine learning, and distributed systems.
+
+- 🎓 **Degree / Field:** MS in Computer Science (Specialization in Artificial Intelligence)
+- 🏆 **Achievements:** Designed and executed 30+ machine learning and data visualization projects delivering actionable insights
+- 🎯 **Focus Areas:** Data Visualization, AI/ML, Big Data Mining
+- 📬 **Contact:** shahidazam2020@gmail.com
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18" height="18" valign="middle" /> WhatsApp: <a href="https://wa.me/+923412772594" target="_blank">Chat on WhatsApp</a>
+
+---
+# 📁 Recommended GitHub structure
 
 For the README above, I recommend organizing the repository like this:
 
+```text
 SmartPhotoVision/
 │
 ├── 📄 main.py
@@ -505,3 +517,6 @@ SmartPhotoVision/
 │   └── photo-library.png
 │
 └── 📘 README.md
+
+```
+----
