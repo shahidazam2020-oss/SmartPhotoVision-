@@ -206,23 +206,25 @@ YuNet + SFace	Detection + Recognition	SQLite	PySide6
 
 Real application screenshots are provided below as proof of the working output.
 
-🖥️ Main Application
-<p align="center"> <img src="screenshots/main-window.png" width="900"> </p>
+---
+
+# 🖥️ Main Application
+<p align="center"> <img src="https://github.com/shahidazam2020-oss/SmartPhotoVision-/blob/master/screenshots/Persona%203.PNG" width="900"> </p>
 
 Main SmartPhotoVision desktop interface.
 
-🔍 Photo Analysis
+## 🔍 Photo Analysis
 <p align="center"> <img src="screenshots/photo-analysis.png" width="900"> </p>
 
 Photo scanning and AI-powered face analysis.
 
-👤 Face Detection
-<p align="center"> <img src="screenshots/face-detection.png" width="900"> </p>
+## 👤 Face Detection
+<p align="center"> <img src="https://github.com/shahidazam2020-oss/SmartPhotoVision-/blob/master/screenshots/Persona%202.PNG" width="900"> </p>
 
 Detected faces within the analyzed photographs.
 
-🧩 Face Clustering / Personas
-<p align="center"> <img src="screenshots/personas.png" width="900"> </p>
+## 🧩 Face Clustering / Personas
+<p align="center"> <img src="https://github.com/shahidazam2020-oss/SmartPhotoVision-/blob/master/screenshots/persona%205.PNG" width="900"> </p>
 
 Detected faces organized into personas based on similarity.
 
