@@ -385,32 +385,35 @@ SmartPhotoVision supports:
 .bmp
 .tif
 .tiff
-🧪 Project Highlights
-🤖 Artificial Intelligence
 
 ```
+
+# 🧪 Project Highlights
+## 🤖 Artificial Intelligence
 Face detection and recognition are integrated directly into the application workflow.
 
-👁️ Computer Vision
+## 👁️ Computer Vision
 
 OpenCV provides the underlying computer-vision capabilities for detecting and analyzing faces.
 
-🗃️ Database Engineering
+## 🗃️ Database Engineering
 
 SQLite provides structured persistence for photographs, detected faces, personas, and tags.
 
-🖥️ Desktop Application Development
+## 🖥️ Desktop Application Development
 
 PySide6 provides the graphical interface and application experience.
 
-🧩 Intelligent Organization
+## 🧩 Intelligent Organization
 
 Face similarity and clustering allow photographs to be organized around detected people.
 
-🗺️ Future Improvements
+---
+# 🗺️ Future Improvements
 
 Potential future development areas include:
 
+```text
 🌐 Multi-language interface
 📱 Companion mobile application
 🔎 Advanced semantic photo search
@@ -423,8 +426,10 @@ Potential future development areas include:
 🎯 Advanced search and filtering
 🤝 Contributing
 
+```
 Contributions, suggestions, and improvements are welcome.
 
+```text
 Contribution Workflow
 Fork
   ↓
@@ -438,9 +443,11 @@ Commit
   ↓
 Pull Request
 
+```
 Please ensure that proposed changes are tested before submitting a pull request.
 
-📜 License
+----
+# 📜 License
 
 Add your preferred open-source license here.
 
