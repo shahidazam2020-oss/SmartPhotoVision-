@@ -233,7 +233,9 @@ Detected faces organized into personas based on similarity.
 
 Organized photo collection inside the application.
 
-📷 Add Your Screenshots
+---
+
+# 📷 Add Your Screenshots
 
 To display your actual screenshots on GitHub, create:
 
@@ -247,7 +249,7 @@ screenshots/
 
 Then replace the example images above with your actual screenshots.
 
-⚙️ Installation
+# ⚙️ Installation
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/SmartPhotoVision.git
 cd SmartPhotoVision
@@ -268,7 +270,8 @@ python main.py
 
 The application will initialize the database and launch the desktop interface.
 
-📖 Usage
+---
+# 📖 Usage
 Step 1 — Launch
 
 Run:
@@ -299,7 +302,9 @@ Step 4 — Explore
 
 Use the application interface to explore the analyzed photographs and detected personas.
 
-🗃️ Database Structure
+---
+
+# 🗃️ Database Structure
 
 SmartPhotoVision uses SQLite to maintain persistent application data.
 
@@ -334,7 +339,9 @@ tags
 photo_tags
 │
 └── Photo ↔ Tag relationships
-🔐 Data & Privacy
+
+
+# 🔐 Data & Privacy
 
 SmartPhotoVision is designed as a local desktop application.
 
