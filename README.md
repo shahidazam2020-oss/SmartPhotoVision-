@@ -249,6 +249,8 @@ screenshots/
 ├── personas.png
 └── photo-library.png
 
+```
+
 Then replace the example images above with your actual screenshots.
 
 # ⚙️ Installation
