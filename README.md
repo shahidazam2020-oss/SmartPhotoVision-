@@ -177,12 +177,15 @@ Artificial Intelligence
 🧩 Face Embeddings
 🔎 Similarity Matching
 📊 Face Clustering
-Development Tools
+
+## Development Tools
 Visual Studio Code
 Git
 GitHub
 Python Virtual Environment
-📊 Project Dashboard
+
+---
+# 📊 Project Dashboard
 <p align="center">
 🧠 AI	👤 Face Analysis	🗃️ Storage	🖥️ Interface
 YuNet + SFace	Detection + Recognition	SQLite	PySide6
