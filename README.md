@@ -128,25 +128,27 @@ Used to generate face embeddings and compare detected faces.
 ---
 
 # 🏗️ Application Architecture
-SmartPhotoVision
+
+```text
+SmartPhotoVision/
 │
-├── main.py
+├── 📄 main.py
 │
-├── analyzer.py
+├── 🧠 analyzer.py
 │
-├── database.py
+├── 🗃️ database.py
 │
-├── paths.py
+├── 🛠️ paths.py
 │
-├── models/
+├── 🤖 models/
 │   ├── face_detection_yunet_2023mar.onnx
 │   └── face_recognition_sface_2021dec.onnx
 │
-├── gui/
+├── 🖥️ gui/
 │   ├── window.py
 │   └── theme.py
 │
-└── README.md
+└── 📘 README.md
 
 🔹 Core Components
 Component	Responsibility
