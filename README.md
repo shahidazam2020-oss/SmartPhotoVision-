@@ -190,8 +190,10 @@ Python Virtual Environment
 🧠 AI	👤 Face Analysis	🗃️ Storage	🖥️ Interface
 YuNet + SFace	Detection + Recognition	SQLite	PySide6
 </p>
-📌 Application Information
-Property	Value
+
+---
+# 📌 Application Information
+## Property	Value
 🏷️ Project	SmartPhotoVision
 📦 Application Type	Desktop Application
 🐍 Language	Python
