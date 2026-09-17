@@ -362,10 +362,11 @@ No cloud photo-upload workflow is required for the core analysis pipeline.
 
 Always review the project's actual configuration and dependencies before using it with sensitive photo collections.
 
-⚡ Performance & Processing
+# ⚡ Performance & Processing
 
 The application is designed to process photo collections efficiently by:
 
+```text
 🔄 Processing images in the background
 📐 Resizing very large images before analysis
 🧠 Limiting stored embeddings per persona
@@ -387,6 +388,7 @@ SmartPhotoVision supports:
 🧪 Project Highlights
 🤖 Artificial Intelligence
 
+```
 Face detection and recognition are integrated directly into the application workflow.
 
 👁️ Computer Vision
