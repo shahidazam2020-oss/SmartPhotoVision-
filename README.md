@@ -102,3 +102,7 @@ SmartPhotoVision follows a multi-stage analysis pipeline:
                           │
                           ▼
                    🖥️ Desktop GUI
+
+```
+
+---
