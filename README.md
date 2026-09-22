@@ -35,7 +35,7 @@
 
 *The application combines **Artificial Intelligence, Computer Vision, Face Detection, Face Recognition, Face Clustering, and SQLite database management** into a single desktop interface.*
 
-Instead of manually searching through hundreds or thousands of images, SmartPhotoVision analyzes photographs and helps organize them according to the people detected in the images.
+*Instead of manually searching through hundreds or thousands of images, SmartPhotoVision analyzes photographs and helps organize them according to the people detected in the images.*
 
 ### 🎯 What SmartPhotoVision Does
 
