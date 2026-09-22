@@ -33,7 +33,7 @@
 
 ***SmartPhotoVision** is an intelligent desktop photo management application designed to make large photo collections easier to organize, analyze, and explore.*
 
-The application combines **Artificial Intelligence, Computer Vision, Face Detection, Face Recognition, Face Clustering, and SQLite database management** into a single desktop interface.
+*The application combines **Artificial Intelligence, Computer Vision, Face Detection, Face Recognition, Face Clustering, and SQLite database management** into a single desktop interface.*
 
 Instead of manually searching through hundreds or thousands of images, SmartPhotoVision analyzes photographs and helps organize them according to the people detected in the images.
 
