@@ -231,7 +231,7 @@ Detected faces organized into personas based on similarity.
 ## 🗃️ Photo Organization
 <p align="center"> <img src="https://github.com/shahidazam2020-oss/SmartPhotoVision-/blob/master/screenshots/persona%207.PNG" width="900"> </p>
 
-Organized photo collection inside the application.
+**Organized photo collection inside the application.**
 
 ---
 
