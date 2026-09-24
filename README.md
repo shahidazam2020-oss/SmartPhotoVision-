@@ -292,7 +292,7 @@ Step 3 — Analyze
 
 Start the photo analysis process.
 
-SmartPhotoVision will:
+**SmartPhotoVision will:**
 
 ```text
 📂 Scan Images
