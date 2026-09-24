@@ -427,7 +427,7 @@ Face similarity and clustering allow photographs to be organized around detected
 🤝 Contributing
 
 ```
-Contributions, suggestions, and improvements are welcome.
+**Contributions, suggestions, and improvements are welcome.**
 
 ```text
 Contribution Workflow
