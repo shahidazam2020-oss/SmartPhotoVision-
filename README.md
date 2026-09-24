@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="#-overview">Overview</a> •
+  <a href="https://github.com/shahidazam2020-oss/SmartPhotoVision-/blob/master/README.md">Overview</a> •
   <a href="#-features">Features</a> •
   <a href="#-technology-stack">Technology</a> •
   <a href="https://github.com/shahidazam2020-oss/SmartPhotoVision-/tree/master/screenshots">Screenshots</a> •
