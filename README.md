@@ -216,7 +216,7 @@ YuNet + SFace	Detection + Recognition	SQLite	PySide6
 ## 🔍 Photo Analysis
 <p align="center"> <img src="https://github.com/shahidazam2020-oss/SmartPhotoVision-/blob/master/screenshots/persona%201.PNG" width="900"> </p>
 
-Photo scanning and AI-powered face analysis.
+**Photo scanning and AI-powered face analysis.**
 
 ## 👤 Face Detection
 <p align="center"> <img src="https://github.com/shahidazam2020-oss/SmartPhotoVision-/blob/master/screenshots/Persona%202.PNG" width="900"> </p>
