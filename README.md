@@ -315,7 +315,7 @@ Step 4 — Explore
 
 # 🗃️ Database Structure
 
-SmartPhotoVision uses SQLite to maintain persistent application data.
+**SmartPhotoVision uses SQLite to maintain persistent application data.**
 
 ```text
 
