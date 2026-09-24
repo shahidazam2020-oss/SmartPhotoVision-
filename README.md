@@ -1,7 +1,7 @@
 # 📸 SmartPhotoVision
 
 <p align="center">
-  <strong>**AI-Powered Photo Management & Face Recognition Desktop Application**</strong>
+  <strong>AI-Powered Photo Management & Face Recognition Desktop Application</strong>
 </p>
 
 <p align="center">
