@@ -211,7 +211,7 @@ YuNet + SFace	Detection + Recognition	SQLite	PySide6
 # 🖥️ Main Application
 <p align="center"> <img src="https://github.com/shahidazam2020-oss/SmartPhotoVision-/blob/master/screenshots/Persona%203.PNG" width="900"> </p>
 
-Main SmartPhotoVision desktop interface.
+**Main SmartPhotoVision desktop interface.**
 
 ## 🔍 Photo Analysis
 <p align="center"> <img src="https://github.com/shahidazam2020-oss/SmartPhotoVision-/blob/master/screenshots/persona%201.PNG" width="900"> </p>
