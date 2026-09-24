@@ -544,7 +544,7 @@ SmartPhotoVision/
 
 **If you find this repository useful for learning Machine Learning, consider giving it a ⭐.**
 
-*Your feedback, suggestions, and contributions are welcome.*
+**Your feedback, suggestions, and contributions are welcome.**
 
 ---
 
