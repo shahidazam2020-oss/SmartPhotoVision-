@@ -251,7 +251,7 @@ screenshots/
 
 ```
 
-Then replace the example images above with your actual screenshots.
+**Then replace the example images above with your actual screenshots.**
 
 # ⚙️ Installation
 1️⃣ Clone the Repository
