@@ -109,7 +109,7 @@ Instead of manually searching through hundreds or thousands of images, SmartPhot
 
 # 🔬 AI Models
 
-The project uses two OpenCV ONNX models:
+**The project uses two OpenCV ONNX models:**
 
 Face Detection
 
