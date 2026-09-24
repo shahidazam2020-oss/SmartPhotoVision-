@@ -226,7 +226,7 @@ YuNet + SFace	Detection + Recognition	SQLite	PySide6
 ## 🧩 Face Clustering / Personas
 <p align="center"> <img src="https://github.com/shahidazam2020-oss/SmartPhotoVision-/blob/master/screenshots/persona%205.PNG" width="900"> </p>
 
-Detected faces organized into personas based on similarity.
+**Detected faces organized into personas based on similarity.**
 
 ## 🗃️ Photo Organization
 <p align="center"> <img src="https://github.com/shahidazam2020-oss/SmartPhotoVision-/blob/master/screenshots/persona%207.PNG" width="900"> </p>
