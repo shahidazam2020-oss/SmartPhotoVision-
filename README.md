@@ -24,7 +24,7 @@
   <a href="https://github.com/shahidazam2020-oss/SmartPhotoVision-/blob/master/README.md">Technology</a> •
   <a href="https://github.com/shahidazam2020-oss/SmartPhotoVision-/tree/master/screenshots">Screenshots</a> •
   <a href="https://github.com/shahidazam2020-oss/SmartPhotoVision-/blob/master/README.md">Installation</a> •
-  <a href="#-usage">Usage</a>
+  <a href="https://github.com/shahidazam2020-oss/SmartPhotoVision-/blob/master/README.md">Usage</a>
 </p>
 
 ---
