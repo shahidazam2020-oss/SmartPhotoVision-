@@ -286,7 +286,7 @@ Run:
 python main.py
 Step 2 — Select Photo Folder
 
-Choose the directory containing your photographs.
+**Choose the directory containing your photographs.**
 
 Step 3 — Analyze
 
