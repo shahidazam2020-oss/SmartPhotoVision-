@@ -22,7 +22,7 @@
   <a href="#-overview">Overview</a> •
   <a href="#-features">Features</a> •
   <a href="#-technology-stack">Technology</a> •
-  <a href="#-screenshots">Screenshots</a> •
+  <a href="https://github.com/shahidazam2020-oss/SmartPhotoVision-/tree/master/screenshots">Screenshots</a> •
   <a href="#-installation">Installation</a> •
   <a href="#-usage">Usage</a>
 </p>
