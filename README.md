@@ -411,7 +411,7 @@ Face similarity and clustering allow photographs to be organized around detected
 ---
 # 🗺️ Future Improvements
 
-Potential future development areas include:
+**Potential future development areas include:**
 
 ```text
 🌐 Multi-language interface
