@@ -237,7 +237,7 @@ Organized photo collection inside the application.
 
 # 📷 Add Your Screenshots
 
-To display your actual screenshots on GitHub, create:
+**To display your actual screenshots on GitHub, create:**
 
 ```text
 
