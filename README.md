@@ -123,7 +123,7 @@ Used to locate faces inside photographs.
 models/
 └── face_recognition_sface_2021dec.onnx
 
-Used to generate face embeddings and compare detected faces.
+**Used to generate face embeddings and compare detected faces.**
 
 ---
 
