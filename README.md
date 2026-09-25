@@ -71,7 +71,7 @@ Instead of manually searching through hundreds or thousands of images, SmartPhot
 
 # 🧠 AI & Computer Vision Pipeline
 
-**SmartPhotoVision follows a multi-stage analysis pipeline:**
+SmartPhotoVision follows a multi-stage analysis pipeline:
 
 ```text
                     📁 Photo Folder
