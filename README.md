@@ -109,7 +109,7 @@ SmartPhotoVision follows a multi-stage analysis pipeline:
 
 # 🔬 AI Models
 
-**The project uses two OpenCV ONNX models:**
+The project uses two OpenCV ONNX models:
 
 Face Detection
 
