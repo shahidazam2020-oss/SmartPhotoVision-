@@ -155,7 +155,7 @@ SmartPhotoVision/
 
 # 🔹 Core Components
 
-**Component	Responsibility**
+Component	Responsibility
 main.py	Application startup and configuration
 analyzer.py	Photo scanning, face detection, recognition and clustering
 database.py	SQLite database and data persistence
