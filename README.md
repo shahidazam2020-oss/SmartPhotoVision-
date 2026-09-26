@@ -411,7 +411,7 @@ SmartPhotoVision supports:
 ---
 # 🗺️ Future Improvements
 
-**Potential future development areas include:**
+Potential future development areas include:
 
 ```text
 🌐 Multi-language interface
