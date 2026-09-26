@@ -427,7 +427,7 @@ Potential future development areas include:
 🤝 Contributing
 
 ```
-**Contributions, suggestions, and improvements are welcome.**
+Contributions, suggestions, and improvements are welcome.
 
 ```text
 Contribution Workflow
