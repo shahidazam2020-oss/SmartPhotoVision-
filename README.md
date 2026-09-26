@@ -275,7 +275,7 @@ Start SmartPhotoVision with:
 
 python main.py
 
-**The application will initialize the database and launch the desktop interface.**
+The application will initialize the database and launch the desktop interface.
 
 ---
 # 📖 Usage
