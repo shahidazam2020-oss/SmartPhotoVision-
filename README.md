@@ -398,7 +398,7 @@ SmartPhotoVision supports:
 
 ## 🗃️ Database Engineering
 
-SQLite provides structured persistence for photographs, detected faces, personas, and tags.
+**SQLite provides structured persistence for photographs, detected faces, personas, and tags.**
 
 ## 🖥️ Desktop Application Development
 
