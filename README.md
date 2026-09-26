@@ -406,7 +406,7 @@ SmartPhotoVision supports:
 
 ## 🧩 Intelligent Organization
 
-Face similarity and clustering allow photographs to be organized around detected people.
+**Face similarity and clustering allow photographs to be organized around detected people.**
 
 ---
 # 🗺️ Future Improvements
