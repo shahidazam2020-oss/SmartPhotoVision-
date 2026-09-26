@@ -309,7 +309,7 @@ SmartPhotoVision will:
 Step 4 — Explore
 
 ```
-**Use the application interface to explore the analyzed photographs and detected personas.**
+Use the application interface to explore the analyzed photographs and detected personas.
 
 ---
 
