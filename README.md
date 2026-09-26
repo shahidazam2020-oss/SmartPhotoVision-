@@ -394,7 +394,7 @@ SmartPhotoVision supports:
 
 ## 👁️ Computer Vision
 
-OpenCV provides the underlying computer-vision capabilities for detecting and analyzing faces.
+**OpenCV provides the underlying computer-vision capabilities for detecting and analyzing faces.**
 
 ## 🗃️ Database Engineering
 
