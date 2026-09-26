@@ -449,7 +449,7 @@ Please ensure that proposed changes are tested before submitting a pull request.
 ----
 # 📜 License
 
-***Add your preferred open-source license here.***
+**Add your preferred open-source license here.**
 
 For example:
 
