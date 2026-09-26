@@ -457,7 +457,7 @@ MIT License
 
 # ⭐ Support the Project
 
-**If you find SmartPhotoVision useful or interesting:**
+If you find SmartPhotoVision useful or interesting:
 
 ### ⭐ Star the repository
 
