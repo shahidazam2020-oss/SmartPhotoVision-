@@ -490,7 +490,7 @@ I enjoy building complete software systems—from networking and operating syste
 ---
 # 📁 Recommended GitHub structure
 
-**For the README above, I recommend organizing the repository like this:**
+For the README above, I recommend organizing the repository like this:
 
 ```text
 SmartPhotoVision/
