@@ -237,7 +237,7 @@ Real application screenshots are provided below as proof of the working output.
 
 # 📷 Add Your Screenshots
 
-**To display your actual screenshots on GitHub, create:**
+To display your actual screenshots on GitHub, create:
 
 ```text
 
