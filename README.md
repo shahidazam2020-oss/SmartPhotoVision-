@@ -444,7 +444,7 @@ Commit
 Pull Request
 
 ```
-**Please ensure that proposed changes are tested before submitting a pull request.**
+Please ensure that proposed changes are tested before submitting a pull request.
 
 ----
 # 📜 License
