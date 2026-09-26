@@ -271,7 +271,7 @@ pip install -r requirements.txt
 
 ▶️ Run the Application
 
-**Start SmartPhotoVision with:**
+Start SmartPhotoVision with:
 
 python main.py
 
