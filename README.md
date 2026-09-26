@@ -390,7 +390,7 @@ SmartPhotoVision supports:
 
 # 🧪 Project Highlights
 ## 🤖 Artificial Intelligence
-**Face detection and recognition are integrated directly into the application workflow.**
+Face detection and recognition are integrated directly into the application workflow.
 
 ## 👁️ Computer Vision
 
