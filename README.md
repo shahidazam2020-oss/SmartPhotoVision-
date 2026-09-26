@@ -364,7 +364,7 @@ Always review the project's actual configuration and dependencies before using i
 
 # ⚡ Performance & Processing
 
-**The application is designed to process photo collections efficiently by:**
+The application is designed to process photo collections efficiently by:
 
 ```text
 🔄 Processing images in the background
