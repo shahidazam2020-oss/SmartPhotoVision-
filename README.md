@@ -204,7 +204,7 @@ YuNet + SFace	Detection + Recognition	SQLite	PySide6
 🔢 Version	1.0.4
 📸 Screenshots
 
-**Real application screenshots are provided below as proof of the working output.**
+Real application screenshots are provided below as proof of the working output.
 
 ---
 
