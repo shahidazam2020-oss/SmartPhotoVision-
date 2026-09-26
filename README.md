@@ -315,7 +315,7 @@ Use the application interface to explore the analyzed photographs and detected p
 
 # 🗃️ Database Structure
 
-**SmartPhotoVision uses SQLite to maintain persistent application data.**
+SmartPhotoVision uses SQLite to maintain persistent application data.
 
 ```text
 
