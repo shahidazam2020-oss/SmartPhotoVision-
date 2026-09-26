@@ -402,7 +402,7 @@ SmartPhotoVision supports:
 
 ## 🖥️ Desktop Application Development
 
-PySide6 provides the graphical interface and application experience.
+**PySide6 provides the graphical interface and application experience.**
 
 ## 🧩 Intelligent Organization
 
