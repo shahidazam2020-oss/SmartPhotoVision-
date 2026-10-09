@@ -111,7 +111,7 @@ Instead of manually searching through hundreds or thousands of images, SmartPhot
 
 The project uses two OpenCV ONNX models:
 
-Face Detection
+**Face Detection**
 
 ## models/
 └── face_detection_yunet_2023mar.onnx
