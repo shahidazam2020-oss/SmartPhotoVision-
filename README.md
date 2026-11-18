@@ -5,6 +5,12 @@
 <a href="https://github.com/shahidazam2020-oss/SmartPhotoVision-/forks">
     <img src="https://img.shields.io/github/forks/shahidazam2020-oss/SmartPhotoVision-?style=social&cacheSeconds=60" alt="GitHub Forks">
   </a>
+    <a href="https://github.com/shahidazam2020-oss/SmartPhotoVision-/commits">
+    <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/SmartPhotoVision-?display_timestamp=committer&style=flat-square" alt="Last Commit">
+  </a>
+
+    </p>
+    
 # 📸 SmartPhotoVision
 
   <strong>AI-Powered Photo Management & Face Recognition Desktop Application</strong>
