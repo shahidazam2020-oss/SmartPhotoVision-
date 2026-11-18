@@ -8,8 +8,7 @@
     <a href="https://github.com/shahidazam2020-oss/SmartPhotoVision-/commits">
     <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/SmartPhotoVision-?display_timestamp=committer&style=flat-square" alt="Last Commit">
   </a>
-
-    </p>
+  
     
 # 📸 SmartPhotoVision
 
