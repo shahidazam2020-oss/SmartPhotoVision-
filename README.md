@@ -1,10 +1,10 @@
+<p align="center">
 <a href="https://github.com/shahidazam2020-oss/SmartPhotoVision-/stargazers">
     <img src="https://img.shields.io/github/stars/shahidazam2020-oss/SmartPhotoVision-?style=social&cacheSeconds=60" alt="GitHub Stars">
   </a>
 
 # 📸 SmartPhotoVision
 
-<p align="center">
   <strong>AI-Powered Photo Management & Face Recognition Desktop Application</strong>
 </p>
 
